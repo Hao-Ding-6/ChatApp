@@ -1,7 +1,7 @@
 # ChatApp   
    
-A just-in-time chat app.  
+A just-in-time chat app, created by team **Freedom**.  
     
 Role: Developer & Doc Lead
    
-URL: https://chatapp-team-freedom.herokuapp.com/
+[Click here to start chatting!](https://chatapp-team-freedom.herokuapp.com/)
